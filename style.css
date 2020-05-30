@@ -1,0 +1,9 @@
+body {
+  background-image: url("https://thumbs.dreamstime.com/b/steel-paint-bucket-pouring-red-surface-cyan-background-renovation-d-illustration-171016052.jpg");
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+}
+p1 {
+  color: white;
+}
